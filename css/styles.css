@@ -29,6 +29,9 @@ a {
   padding: 0 15px;
   margin: 0 auto;
 }
+.team-image .portfolio-image {
+  display: block;
+}
 /*----------------header--------------------*/
 .page-header {
   border-bottom: 1px solid #e7e9fc;
@@ -105,7 +108,8 @@ a {
   margin-bottom: 120px;
 }
 .hero-wrapper {
-  padding: 188px 472px 188px 472px;
+  padding-top: 188px;
+  padding-bottom: 188px;
 }
 .hero-tittle {
   font-size: 56px;
