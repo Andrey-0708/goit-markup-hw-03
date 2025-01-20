@@ -106,10 +106,10 @@ a {
 .hero {
   background-color: #2e2f42;
   margin-bottom: 120px;
-}
-.hero-wrapper {
   padding-top: 188px;
   padding-bottom: 188px;
+}
+.hero-wrapper {
 }
 .hero-tittle {
   font-size: 56px;
